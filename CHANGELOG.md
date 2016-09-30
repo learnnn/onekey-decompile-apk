@@ -21,6 +21,8 @@
 ```
 _inject_classes D:\TestSmaliInject\build\classes D:\TestSmali\smali
 ```
+# onekey-decompile-apk v1.0.1.1 #
+将apktool升级到2.2.0，更新各个反编译控件
 
 # onekey-decompile-apk v1.0.1 #
 2012-10-22
